@@ -7,3 +7,5 @@ Some of them I'll code, but for most I'll use PS & AI.
 ![checkout page](http://i.imgur.com/YWx5aHS.png)
 3. Landing Page
 ![landing page](http://i.imgur.com/NCbvCO6.jpg)
+4. Calculator
+![calculator](http://i.imgur.com/6S6Hxew.png)
