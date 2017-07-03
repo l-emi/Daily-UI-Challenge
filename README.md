@@ -9,3 +9,5 @@ Some of them I'll code, but for most I'll use PS & AI.
 ![landing page](http://i.imgur.com/NCbvCO6.jpg)
 4. Calculator
 ![calculator](http://i.imgur.com/6S6Hxew.png)
+5. App Icon
+![app icon](http://i.imgur.com/zPksXZy.png)
