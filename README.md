@@ -13,3 +13,5 @@ Some of them I'll code, but for most I'll use PS & AI.
 ![app icon](http://i.imgur.com/zPksXZy.png)
 6. Online Profile
 ![user profile](http://i.imgur.com/3p7pd28.jpg)
+7. Settings
+![settings](https://mir-cdn.behance.net/v1/rendition/project_modules/max_3840/617a3e54490137.595d674ae994e.png)
