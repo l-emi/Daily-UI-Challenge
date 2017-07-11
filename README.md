@@ -21,3 +21,5 @@ Some of them I'll code, but for most I'll use PS & AI.
 ![music player](https://mir-cdn.behance.net/v1/rendition/project_modules/max_3840/2de1f154555501.595fef805435c.png)
 10. Social Share
 ![social share](https://mir-cdn.behance.net/v1/rendition/project_modules/max_3840/f29bfd54625697.59638e88db6f9.png)
+11. Flash Messages
+![flash messages](https://mir-cdn.behance.net/v1/rendition/project_modules/max_3840/c32d6f54663717.5964d22fd5589.png)
