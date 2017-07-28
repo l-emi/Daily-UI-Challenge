@@ -1,5 +1,5 @@
 # Daily-UI-Challenge
-Some of them I'll code, but for most I'll use PS & AI. 
+[Uploaded here](https://www.behance.net/lemidev889c)
 
 1. [Sign Up Form](https://l-emi.github.io/signup-form)
 ![sign up form](http://i.imgur.com/saqq9Ip.png)
@@ -29,3 +29,21 @@ Some of them I'll code, but for most I'll use PS & AI.
 ![direct messaging](https://mir-cdn.behance.net/v1/rendition/project_modules/max_3840/301a5b54739285.59676f8e50739.png)
 14. Countdown Timer
 ![countdown timer](https://mir-cdn.behance.net/v1/rendition/project_modules/max_3840/bc92aa54784573.59691e09edf0e.png)
+15. On/Off Switch
+![on/off switch](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/02fffd54841871.596c622da8bb2.png)
+16. Popup/Overlay
+![popup/overlay](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/46c57154888223.596e01cc4790f.png)
+17. Email Receipt
+![email receipt](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/d1eac654923463.596f3f009bb6c.png)
+18. Analytics Chart
+![analytics chart](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/d4b31a54976459.59711132d8042.png)
+19. Leaderboard
+![leaderboard](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/b1869155003267.59722dfea5edb.png)
+20. Location Tracker
+![location tracker](https://mir-s3-cdn-cf.behance.net/project_modules/fs/94beee55090783.59765f7b54e7a.png)
+21. Monitoring Dashboard
+![monitoring dashboard](https://mir-s3-cdn-cf.behance.net/project_modules/fs/66940755122657.5977866296116.png)
+22. Search
+![search](https://mir-s3-cdn-cf.behance.net/project_modules/fs/47c32055161171.5978e234bc765.png)
+23. Onboarding
+![onboarding](https://mir-s3-cdn-cf.behance.net/project_modules/fs/97e41f55196599.597a3273c67b1.png)
