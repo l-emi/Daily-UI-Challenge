@@ -59,3 +59,7 @@
 ![contact](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/a4b98955425663.5983778ae13ce.png)
 29. Map
 ![map](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/acddfb55472603.5985b532bc2be.png)
+30. Pricing
+![pricing](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/7aef4355531489.5988a85745063.png)
+31. File Upload
+![file upload](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/8fe3a755567553.5989f6a4c1d26.png)
